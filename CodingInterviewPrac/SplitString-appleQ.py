@@ -1,6 +1,7 @@
 """
 >How large file can be on HDFS distributed file system?
->Given busy slots as a data-set in a person's outlook calendar (eg: {(1000, 1200), (1415, 1530),...}) and the time required for a meeting (eg: 45 mins) write a method to find an open available slot for scheduling a meeting.
+>Given busy slots as a data-set in a person's outlook calendar (eg: {(1000, 1200), (1415, 1530),...}) and the time 
+required for a meeting (eg: 45 mins) write a method to find an open available slot for scheduling a meeting.
 """
 from collections import OrderedDict, defaultdict
 
